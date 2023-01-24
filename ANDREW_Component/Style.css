@@ -1,0 +1,70 @@
+#btn {
+    width: 40px;
+    background-color: rgba(30, 143, 255, 0.461);
+    border-radius: 5px;
+    border: 0px;
+}
+
+#maincounter {
+    margin: auto;
+    padding-bottom: 20px;
+    /* border:5px solid; */
+    text-align: center;
+}
+
+.main_container {
+    position: absolute;
+    left: 5%;
+    top: 12%;
+    width: 18%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px 5px grey;
+  
+}
+#value{
+padding:0px 10px;
+}
+h1{
+    text-align: center;
+    /* text-decoration: underline; */
+}
+
+.result{
+    text-align: center;
+    position: absolute;
+    left: 65%;
+    top: 12%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0px 0px 15px 5px grey;
+}
+.Addbtn{
+    width: 140px;
+    padding: 20px;
+    font-size: large;
+    background-color: rgba(30, 143, 255, 0.461);
+    border-radius: 15px;
+    border: 0px;
+    position: absolute;
+    left: 30%;
+    top:17%;
+}
+.submitbtn{
+    width: 140px;
+    padding: 20px;
+    font-size: large;
+    background-color: rgba(30, 143, 255, 0.461);
+    border-radius: 15px;
+    border: 0px;
+    position: absolute;
+    left: 30%;
+    top:27%;
+}
+.mainapp{
+
+    border: 2px solid black;
+}
